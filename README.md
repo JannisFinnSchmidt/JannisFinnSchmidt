@@ -61,7 +61,7 @@ Two‑machine setup:
 - Ubuntu Server with RTX 3060 for training heavy models  
 Orchestrated remote workflows for ML research.
 
-### [**ESP‑Cam Face Detection**](https://github.com/JannisFinnSchmidt/ESP32-Cam-Face-Detection)
+### [**ESP‑Cam Face Detection**](https://github.com/JannisFinnSchmidt/ESP_Cam_Project)
 Local face recognition running on an ESP32‑Cam using lightweight models deployed on my home server cluster.
 
 ### [**StaDS Anki Flashcards**](https://github.com/JannisFinnSchmidt/StaDS-Anki-Flashcards)
