@@ -49,7 +49,7 @@ Model training, DVC pipelines, Dockerized services, CI/CD with GitHub Actions, G
 ### **Cell Detection for Cytospin Images (LMU Clinic)**
 Applied ML for medical imaging: segmentation, detection, evaluation pipelines, report generation.
 
-### [**Homeserver_Setup**](https://github.com/JannisFinnSchmidt/Home-Server-Cluster)
+### [**Homeserver-Setup**](https://github.com/JannisFinnSchmidt/Home-Server-Cluster)
 Two‑machine setup:  
 - Workstation with Zorin OS interface (SSH + NoMachine)  
 - Ubuntu Server with RTX 3060 for training (SSH) 
