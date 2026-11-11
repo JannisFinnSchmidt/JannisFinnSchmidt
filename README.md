@@ -1,17 +1,15 @@
 # Hi, I'm Finn👋
 
-I'm a **Statistician & Machine Learning Engineer**, currently completing my Master’s studies in *Statistics & Data Science* at LMU Munich. My current focus lies on Machine Learning, real‑world AI applications and MLOps.  
-Enjoy exploring my repo and feel free to reach out with any questions or if you would like to connect.
+I'm a **Statistician & Machine Learning Engineer**, currently completing my Master’s studies in *Statistics & Data Science* at LMU Munich. My current focus lies on Tabular Foundation Models and ML-Ops. Privately, I'm persuing a vision project on my home server setup.
 
 ---
 
 ## About Me
 
 - Master’s student in *Statistics & Data Science* (LMU)  
-- Statistical modeling, Deep Learning, and consulting (StaBLab LMU)  
-- Focus on **MLOps** and **Applied AI**  
-- Experience in medical imaging (cell detection on Cytospin slides), street signs and face recognition  
-- Building and maintaining my own **private Server cluster**   
+- Tabular Foundation Models, Statistical Modelling, and Consulting (StaBLab LMU)  
+- Experience in medical imaging (cell detection on Cytospin slides), street signs detection and face recognition  
+- Building and maintaining my own **Homeserver-Setup**   
 
 ---
 
@@ -29,20 +27,16 @@ Enjoy exploring my repo and feel free to reach out with any questions or if you 
 ![Transformers](https://img.shields.io/badge/Transformers-FFDD00?style=for-the-badge&logo=huggingface&logoColor=black)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 
-### **MLOps**
+### **MLOps & Infrastructure**
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 ![DVC](https://img.shields.io/badge/DVC-945DD6?style=for-the-badge&logo=dvc&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-
-### **Cloud & Infrastructure**
 ![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Zorin OS](https://img.shields.io/badge/Zorin%20OS-0A9EDC?style=for-the-badge&logoColor=white)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-![NVIDIA](https://img.shields.io/badge/NVIDIA-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
+![Ubuntu Server](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 
 ---
 
@@ -53,19 +47,18 @@ End‑to‑end ML system inspired by the DTU MLOps course:
 Model training, DVC pipelines, Dockerized services, CI/CD with GitHub Actions, GCP compute, FastAPI backend, Streamlit frontend, cloud deployment.
 
 ### **Cell Detection for Cytospin Images (LMU Clinic)**
-Applied ML for medical imaging: segmentation, detection, evaluation pipelines, reproducible experiments.
+Applied ML for medical imaging: segmentation, detection, evaluation pipelines, report generation.
 
-### [**Home-Server Cluster**](https://github.com/JannisFinnSchmidt/Home-Server-Cluster)
+### [**Homeserver_Setup**](https://github.com/JannisFinnSchmidt/Home-Server-Cluster)
 Two‑machine setup:  
-- Zorin OS workstation (SSH + NoMachine)  
-- Ubuntu Server with RTX 3060 for training heavy models  
-Orchestrated remote workflows for ML research.
+- Workstation with Zorin OS interface (SSH + NoMachine)  
+- Ubuntu Server with RTX 3060 for training (SSH) 
 
 ### [**ESP‑Cam Face Detection**](https://github.com/JannisFinnSchmidt/ESP_Cam_Project)
-Local face recognition running on an ESP32‑Cam using lightweight models deployed on my home server cluster.
+Local face recognition running on an ESP32‑Cam using lightweight models deployed on my home server.
 
 ### [**StaDS Anki Flashcards**](https://github.com/JannisFinnSchmidt/StaDS-Anki-Flashcards)
-Anki flashcards for various topics in the area of Statistics and Data Science intended as a long-term learning resource to help maintain and reinforce key concepts after completing the respective courses.
+Anki flashcards for various topics in the area of Statistics and Machine Learning intended as a long-term learning resource to help maintain and reinforce key concepts after completing the respective courses.
 
 ---
 
